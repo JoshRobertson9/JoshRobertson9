@@ -5,7 +5,7 @@
 - 📫 How to reach me on LinkedIn at https://www.linkedin.com/in/joshrobertson9/
 - 🚲 When I'm not programming I enjoy Mountain Biking with my friends 
 
-- Languages: Python :python:, C :c:, C++, :cplusplus:, VBA :vba:
+- Languages: Python :python: , C :c: , C++ :cplusplus: , VBA :vba:
 
 <!---
 JoshRobertson9/JoshRobertson9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
