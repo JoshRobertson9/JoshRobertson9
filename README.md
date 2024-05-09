@@ -3,7 +3,6 @@
 - 👀 I’m interested in making all sorts of useful tools that are both fun an helpful
 - 🌱 I’m currently learning everything about Python
 - 💞️ I’m looking to collaborate on open source projects
-- 📫 How to reach me on LinkedIn at https://www.linkedin.com/in/joshrobertson9/
 - 🚲 When I'm not programming I enjoy Mountain Biking with my friends 
 
 <!---
