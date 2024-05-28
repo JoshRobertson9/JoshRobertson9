@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JoshRobertson9
-- 🪜 Languages: Python, C, C++, MATLAB, & VBA
-- 👀 I’m interested in making all sorts of useful tools that are both fun an helpful
+- 🪜 Languages: Python, C, C++, MATLAB, VBA, & Bash
+- 👀 I’m interested in making all sorts of tools that are both fun an helpful
 - 🌱 I’m currently learning everything about Python
 - 💞️ I’m looking to collaborate on open source projects
 - 🚲 When I'm not programming I enjoy Mountain Biking with my friends 
