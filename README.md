@@ -1,5 +1,5 @@
 Hi, I’m @JoshRobertson9
-- 👋 Languages: Python, C, C++, Bash, & HTML
+- 👋 Languages: Python, C, C++, Bash, Flask, & HTML
 - 👀 I’m interested in making powerful tools and using more free and open-source software (FOSS).
 - 🌱 I’m currently learning everything about Git, various Linux Distros, and how to build/host a website.
 - 🚲 When I'm not programming I enjoy Mountain Biking and playing games with friends.
