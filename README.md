@@ -1,8 +1,9 @@
 Hi, I’m @JoshRobertson9
-- 👋 Languages: Python, C, C++, Bash, Flask, & HTML
-- 👀 I’m interested in making powerful tools and using more free and open-source software (FOSS).
-- 🌱 I’m currently learning everything about Git, various Linux Distros, and how to build/host a website.
-- 🚲 When I'm not programming I enjoy Mountain Biking and playing games with friends.
+
+- 🔧 DevOps Engineer specializing in GitLab CI/CD build/deploy automation and cloud/on-prem infrastructure
+- 💻 Languages: Python, Bash, YAML, C, C++, Flask, HTML, Google Apps Script/JavaScript
+- 🏗️ I enjoy building useful personal tools such as [coolmaptools.com](https://www.coolmaptools.com/) — a Flask-based commute cost/distance calculator
+- 🚲 Off the keyboard I like mountain biking, homelab tinkering (UGreen NAS), and device repair
 
 <!---
 JoshRobertson9/JoshRobertson9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
